@@ -1,0 +1,40 @@
+.creative,
+.fast,
+.simple {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 800;
+}
+.creative,
+.simple {
+  left: 289px;
+}
+.creative {
+  left: 712px;
+}
+.duplicatespot {
+  position: absolute;
+  top: 46px;
+  left: 55px;
+  width: 1226px;
+  height: 116px;
+}
+.design,
+.maskGroup {
+  position: absolute;
+  top: -46px;
+  left: -55px;
+  width: 1337px;
+  height: 232.16px;
+}
+.maskGroup {
+  top: 1773px;
+  left: 375px;
+  width: 1226px;
+  height: 116px;
+  text-align: left;
+  font-size: var(--font-size-77xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-sen);
+}
